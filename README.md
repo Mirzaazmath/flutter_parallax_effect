@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+<img src ="https://github.com/Mirzaazmath/flutter_parallax_effect/blob/main/assets/result.png" height="300" width="400">
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
